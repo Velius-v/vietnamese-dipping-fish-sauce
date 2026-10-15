@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://velius-v.github.io/vietnamese-dipping-fish-sauce/sitemap.xml
