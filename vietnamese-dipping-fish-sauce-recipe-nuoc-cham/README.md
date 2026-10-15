@@ -26,4 +26,4 @@ Without Vietnamese diacritics, the name appears as nuoc cham or nuoc mam cham, t
 CHIN-SU  
 Address: 23 Le Duan, Sai Gon Ward, Ho Chi Minh city  
 Phone: (206) 356-7092  
-Email: chinsu@gmail.com
+Email: chinsu.global2022@gmail.com
